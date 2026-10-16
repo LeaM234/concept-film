@@ -7,7 +7,7 @@ Projet conçu en équipe avec : Abir Amoucha
 
 - Une phrase (logline) : Olaf veut accompagner Anna dans sa mission de sauver Elsa, mais il doit traverser la montagne.
 - Le public cible : G (général)
-- La franchise d'origine : Frozen 1
+- La franchise d'origine : La reine des neiges 1
 
 ## L'intrigue
 
@@ -20,7 +20,9 @@ Projet conçu en équipe avec : Abir Amoucha
 
 - Description (physique et psychologique) :
     - bonhomme de neige
-    - 
+    - amour inconditionnel
+    - naif
+    - curieux
 - Son désir (ce qu'il veut) : ...
 - Son besoin (ce qu'il lui faut) : ...
 - Son évolution : ...
